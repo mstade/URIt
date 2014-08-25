@@ -1,3 +1,3 @@
 [submodule "test/rfc6570-cases"]
 	path = test/rfc6570-cases
-	url = git@github.com:uri-templates/uritemplate-test.git
+	url = https://github.com/uri-templates/uritemplate-test.git
