@@ -1,0 +1,21 @@
+{
+  "name": "URIt",
+  "version": "0.0.0",
+  "description": "URI template library",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^1.9.1",
+    "funkis": "^0.1.1"
+  },
+  "devDependencies": {
+    "mocha": "^1.21.4"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Marcus Stade",
+  "license": "MIT"
+}
