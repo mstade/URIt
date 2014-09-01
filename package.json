@@ -2,7 +2,7 @@
   "name": "URIt",
   "version": "0.0.0",
   "description": "URI template library",
-  "main": "index.js",
+  "main": "lib/URIt.js",
   "directories": {
     "test": "test"
   },
